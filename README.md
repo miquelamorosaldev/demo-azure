@@ -2,6 +2,12 @@
 
 Projecte Flask desplegat a Azure.
 
+## Instruccions
+
+python3 -m venv venv
+source venv/bin/activate
+(venv)$ pip install flask
+
 
 
 from flask import Flask
